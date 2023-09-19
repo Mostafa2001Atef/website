@@ -1,0 +1,10 @@
+*{
+    font-family: 'NotoSansArabic';
+}
+label{
+    margin-left:88%;
+}
+.btn{
+    width: 50%;
+    margin-left: 30%;
+}
